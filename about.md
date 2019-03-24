@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I am a computer science MS student at [Columbia University](http://www.cs.columbia.edu/) and I will graduate in May 2020.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a detail oriented person, love to learn new things and overcome challenges. Please feel free to [contact](https://www.linkedin.com/in/sin-yi-huang/) me if you have any questions. I am open to any software engineering summer internship/full-time job opportunity. Thanks!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Languages: Python, Java, C++, C, JavaScript
+Other technical skills: Linux, AWS(S3, Lambda function, Cognito, Lex), MySQL, Git, OOP, PyTorch, Keras, NLP, ML, Drupal
