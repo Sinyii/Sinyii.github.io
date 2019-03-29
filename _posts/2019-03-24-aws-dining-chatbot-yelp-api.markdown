@@ -48,5 +48,6 @@ categories: projects
 #### References:
 1. https://docs.aws.amazon.com/cognito/latest/developerguide/amazon-cognito-user-pools-using-tokens-with-identity-providers.html
 2. https://regularshow.fandom.com/wiki/Pops?file=Pops_character.png
+3. https://darkcode1.blogspot.com/2018/12/amazing-transparent-login-form-just-by.html
 
 Will upload more detail asap!
