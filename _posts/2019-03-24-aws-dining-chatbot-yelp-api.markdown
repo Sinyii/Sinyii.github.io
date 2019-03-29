@@ -24,7 +24,7 @@ categories: projects
     
 
 
-### 1. First, login to through cognito to get permission of connecting with chatbot.
+### 1. First, login through the AWS cognito page to get permission of connecting with chatbot.
 
 ![login page](/image/chatbot/login_page.png)
 
