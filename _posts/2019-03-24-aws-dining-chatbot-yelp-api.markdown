@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AWS dining chatbot (Yelp api)"
+title:  "AWS dining chatbot (using Yelp api)"
 date:   2019-03-24 17:45:36 -0400
 thumbnail: "/image/chatbot/chat_bot_page2.png"
 categories: projects
