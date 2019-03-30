@@ -13,7 +13,7 @@ categories: projects
 + There are **two urls** in the above link :
     - https://dining-chat-bot2.auth.us-east-1.amazoncognito.com
     - https://dkqtjjobwip8d.cloudfront.net/dining_chat.html
-    - The first url is provided by **AWS cognito** for giving user autherization and the second url will redirect qualified user to the chatbot page. 
++ The first url is provided by **AWS cognito** for giving user autherization and the second url will redirect qualified user to the chatbot page. 
 + The redirect url **had been** the actual path of dining_chat.html in my S3 bucket, but I used **AWS cloudFront** to transform it into a safer format for preventing people to connect with my S3 bucket directly.
 
 #### How to use:
