@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Weather App"
 date:   2019-04-19 20:58:36 -0400
-thumbnail: "/image/weatherApp/1.png"
+thumbnail: "/image/weatherApp/thumbnail.png"
 categories: projects
 ---
 
