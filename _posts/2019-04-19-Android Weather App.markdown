@@ -31,16 +31,12 @@ You can download the apk to your Android device to see the display.
 PATH: weather-app-android/apk/04212019/  
 [link](https://github.com/Sinyii/weather-app-android/tree/master/apk/04212019)
 
-#### Functions have built
+#### Functionalities
 - Show current weather data.
 - Show hourly forecast(24hr).
 - Show daily forecast(5 days).
 - Can locate user location.
 - Can set notifation(half finished)
-
-#### Functions haven't built
-- Use user location, I am using hardcoded location:Boston right now. The problem is about FragmentPagerAdapter.
-- Push notification.
 
 
 #### References
@@ -58,12 +54,6 @@ PATH: weather-app-android/apk/04212019/
 [Repeat a task](https://stackoverflow.com/questions/6242268/repeat-a-task-with-a-time-delay)  
 [Notifications](https://codinginflow.com/tutorials/android/notifications-notification-channels/part-1-notification-channels)   
 
-
-####  Update history
-##### 4/21
-- modify display
-- built setting activity
-- remaining problems: push notification & use user location(the notification function was successful before lol.. still trying to figure what happened)
 
 #### Other
 - This project started on 4/17/2019, first version uploaded on 4/19/2019.
