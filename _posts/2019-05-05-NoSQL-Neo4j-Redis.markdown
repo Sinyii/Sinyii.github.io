@@ -10,7 +10,7 @@ categories: projects
 ### Part 1- Neo4j
  
 #### DB preview 
-This Neo4j DB contain above 3000 nodes and relations, this is just part of the Neo4j DB.
+This Neo4j DB contain above 3000 nodes and relations, this picture is just part of it.
 ![preview](/image/graphdb/comment2.PNG)
 
 ### 1. FanGraph Class Implementation
