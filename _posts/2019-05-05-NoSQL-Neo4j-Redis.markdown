@@ -9,7 +9,8 @@ categories: projects
 # W4111: Introduction to Databases - NoSQL: Neo4j(GraphDB) & Redis(in-memory DB)
 ### Part 1- Neo4j
  
-#### DB preview (this DB contain above 3000 nodes and relations, this is just part of the db)
+#### DB preview 
+This Neo4j DB contain above 3000 nodes and relations, this is just part of the Neo4j DB.
 ![preview](/image/graphdb/comment2.PNG)
 
 ### 1. FanGraph Class Implementation
