@@ -537,7 +537,7 @@ load_teams()
 load_appearances()
 ```
 
-![player_team](/image/graphdb/player_team.PNG)
+<!--![player_team](/image/graphdb/player_team.PNG)-->
 
 ### 4. Load Fans data
 
