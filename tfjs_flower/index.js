@@ -1,3 +1,6 @@
+var base = document.createElement('base');
+base.href = 'https://sinyii.github.io/tfjs_flower/';
+document.getElementsByTagName('head')[0].appendChild(base);
 
 CLASSES = {
   0: 'class0',
