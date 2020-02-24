@@ -1,6 +1,3 @@
-var base = document.createElement('base');
-base.href = 'https://sinyii.github.io/tfjs_flower/';
-document.getElementsByTagName('head')[0].appendChild(base);
 
 CLASSES = {
   0: 'class0',
@@ -11,7 +8,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'model.json';
+    '/tfjs_flower/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
